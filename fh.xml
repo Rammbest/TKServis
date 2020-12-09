@@ -1,0 +1,334 @@
+<table id="devicesList" class="table table-striped table-hover">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th id="account"><a class="liens sort-asc">Аккаунт</a></th>
+            <th id="secret">Пароль</th>
+            <th id="type"><a class="">Тип</a></th>
+            <th id="user"><a class="">Владелец</a></th>
+            <th id="number"><a class="">Номер</a></th>
+        </tr>
+        </thead>
+        <tbody>
+                                    <tr id="device-12">
+                <td>1.</td>
+                <td>23523552000</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">UL4UsSuD7H5Xp5Td</span></td>
+                <td>SIP</td>
+                <td>Сотрудник 2000</td>
+                <td>2000</td>
+            </tr>
+                        <tr id="device-1">
+                <td>2.</td>
+                <td>374345745100</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">gtQXedUq5P66n6vR</span></td>
+                <td>SIP</td>
+                <td>Куприянова Татьяна</td>
+                <td>100</td>
+            </tr>
+                        <tr id="device-2">
+                <td>3.</td>
+                <td>374345745101</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">tGfrv6xwT9DpK926</span></td>
+                <td>SIP</td>
+                <td>Козлова Оксана</td>
+                <td>101</td>
+            </tr>
+                        <tr id="device-3">
+                <td>4.</td>
+                <td>374345745102</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">rkJyEfunCrxaqJGy</span></td>
+                <td>SIP</td>
+                <td>Морозова Татьяна</td>
+                <td>102</td>
+            </tr>
+                        <tr id="device-4">
+                <td>5.</td>
+                <td>374345745103</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">xLaHBRKkEzmskkuc</span></td>
+                <td>SIP</td>
+                <td>Пивоварова Лариса</td>
+                <td>103</td>
+            </tr>
+                        <tr id="device-5">
+                <td>6.</td>
+                <td>374345745104</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">PBWwqAmCGX5GmPXX</span></td>
+                <td>SIP</td>
+                <td>Корень Оксана</td>
+                <td>104</td>
+            </tr>
+                        <tr id="device-7">
+                <td>7.</td>
+                <td>374345745106</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">6EC7esKJ4DcxsteA</span></td>
+                <td>SIP</td>
+                <td>Максакова Алена</td>
+                <td>106</td>
+            </tr>
+                        <tr id="device-8">
+                <td>8.</td>
+                <td>374345745107</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">8WVbUjg5ajAxmSev</span></td>
+                <td>SIP</td>
+                <td>Зайцева Кристина</td>
+                <td>109</td>
+            </tr>
+                        <tr id="device-9">
+                <td>9.</td>
+                <td>374345745108</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">eNzt9qV4DyfVshva</span></td>
+                <td>SIP</td>
+                <td>Тимохина Ольга</td>
+                <td>108</td>
+            </tr>
+                        <tr id="device-14">
+                <td>10.</td>
+                <td>374357451110</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">BNV8Da9unbV654M7</span></td>
+                <td>SIP</td>
+                <td>Конюхова Виктория</td>
+                <td>110</td>
+            </tr>
+                        <tr id="device-15">
+                <td>11.</td>
+                <td>374357451111</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">FLxYsxUPGYHubwKs</span></td>
+                <td>SIP</td>
+                <td>Саблина Татьяна</td>
+                <td>111</td>
+            </tr>
+                        <tr id="device-16">
+                <td>12.</td>
+                <td>374357451112</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">LEaEFpAwYv7WjVn3</span></td>
+                <td>SIP</td>
+                <td>Кашникова Наталья</td>
+                <td>112</td>
+            </tr>
+                        <tr id="device-17">
+                <td>13.</td>
+                <td>374357451113</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">DKmBw6cHEqBLeTq4</span></td>
+                <td>SIP</td>
+                <td>Козырев Игорь</td>
+                <td>113</td>
+            </tr>
+                        <tr id="device-18">
+                <td>14.</td>
+                <td>374357451114</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">7avAz6DMkPjUcHQ7</span></td>
+                <td>SIP</td>
+                <td>Волчек Татьяна</td>
+                <td>114</td>
+            </tr>
+                        <tr id="device-19">
+                <td>15.</td>
+                <td>374357451115</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">vMXbVtegtLrpctwk</span></td>
+                <td>SIP</td>
+                <td>Богданова Ирина</td>
+                <td>115</td>
+            </tr>
+                        <tr id="device-20">
+                <td>16.</td>
+                <td>374357451116</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">gb2UxEvDwDpvjAxF</span></td>
+                <td>SIP</td>
+                <td>Капустин Дмитрий Юрьевич</td>
+                <td>116</td>
+            </tr>
+                        <tr id="device-21">
+                <td>17.</td>
+                <td>374357451117</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">meqsprmg4RvgPnYB</span></td>
+                <td>SIP</td>
+                <td>Тимофеев Александр Николаевич</td>
+                <td>117</td>
+            </tr>
+                        <tr id="device-22">
+                <td>18.</td>
+                <td>374357451118</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">VbxtLHJ3kMgPnUdN</span></td>
+                <td>SIP</td>
+                <td>Комарова Татьяна Петровна</td>
+                <td>118</td>
+            </tr>
+                        <tr id="device-23">
+                <td>19.</td>
+                <td>374357451119</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">Sf9Xjn7a3xnQK4fE</span></td>
+                <td>SIP</td>
+                <td>Бубукина Надежда Владимировна</td>
+                <td>119</td>
+            </tr>
+                        <tr id="device-24">
+                <td>20.</td>
+                <td>374357451120</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">kUUpfgqTeheWVgjb</span></td>
+                <td>SIP</td>
+                <td>Обухова Анастасия</td>
+                <td>120</td>
+            </tr>
+                        <tr id="device-25">
+                <td>21.</td>
+                <td>374357451121</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">WhyKFr2Tbh6taaUW</span></td>
+                <td>SIP</td>
+                <td>Сударикова Ольга</td>
+                <td>121</td>
+            </tr>
+                        <tr id="device-26">
+                <td>22.</td>
+                <td>374357451122</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">KtA4xSnbMWNDHr9u</span></td>
+                <td>SIP</td>
+                <td>Кузнецов Валерий</td>
+                <td>122</td>
+            </tr>
+                        <tr id="device-27">
+                <td>23.</td>
+                <td>374357451123</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">ztN6aHWU5nDtUaUg</span></td>
+                <td>SIP</td>
+                <td>Богданова Екатерина</td>
+                <td>140</td>
+            </tr>
+                        <tr id="device-28">
+                <td>24.</td>
+                <td>374357451124</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">hupPKY5U7XpFNpXu</span></td>
+                <td>SIP</td>
+                <td>Кирпичева Анна</td>
+                <td>141</td>
+            </tr>
+                        <tr id="device-29">
+                <td>25.</td>
+                <td>374357451125</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">gPebgT4a3YgQJCH5</span></td>
+                <td>SIP</td>
+                <td>Соина Александра</td>
+                <td>125</td>
+            </tr>
+                        <tr id="device-30">
+                <td>26.</td>
+                <td>374357451126</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">2NRAcmyzph66bJeS</span></td>
+                <td>SIP</td>
+                <td>Грецова Ирина</td>
+                <td>126</td>
+            </tr>
+                        <tr id="device-31">
+                <td>27.</td>
+                <td>374357451127</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">gy8WD3DTnM6tSS9E</span></td>
+                <td>SIP</td>
+                <td>Комарова Татьяна</td>
+                <td>127</td>
+            </tr>
+                        <tr id="device-32">
+                <td>28.</td>
+                <td>374357451128</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">mReX3awwn78VFwbL</span></td>
+                <td>SIP</td>
+                <td>Путков Евгений</td>
+                <td>128</td>
+            </tr>
+                        <tr id="device-33">
+                <td>29.</td>
+                <td>374357451129</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">uczXf4gDXaJcCJBa</span></td>
+                <td>SIP</td>
+                <td>Бережнова Ксения</td>
+                <td>129</td>
+            </tr>
+                        <tr id="device-34">
+                <td>30.</td>
+                <td>374357451130</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">sL3e95rb2waReYcs</span></td>
+                <td>SIP</td>
+                <td>Бирюкова Анна</td>
+                <td>130</td>
+            </tr>
+                        <tr id="device-35">
+                <td>31.</td>
+                <td>374357451131</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">2F5tUpJkzbDrrmgg</span></td>
+                <td>SIP</td>
+                <td>Чернецова Елена Борисовна</td>
+                <td>131</td>
+            </tr>
+                        <tr id="device-36">
+                <td>32.</td>
+                <td>374357451132</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">hykgwcD3bVvQkKDa</span></td>
+                <td>SIP</td>
+                <td>Лобачева Ольга</td>
+                <td>132</td>
+            </tr>
+                        <tr id="device-37">
+                <td>33.</td>
+                <td>374357451133</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">cYg2G5p7kCwvahAm</span></td>
+                <td>SIP</td>
+                <td>Александрова Татьяна</td>
+                <td>133</td>
+            </tr>
+                        <tr id="device-38">
+                <td>34.</td>
+                <td>374357451134</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">vLFbdhhPqD9zzSWF</span></td>
+                <td>SIP</td>
+                <td>Правдина Анастасия</td>
+                <td>134</td>
+            </tr>
+                        <tr id="device-39">
+                <td>35.</td>
+                <td>374357451135</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">yHTCAGZ2nXfP8B7x</span></td>
+                <td>SIP</td>
+                <td>Новикова Анастасия</td>
+                <td>135</td>
+            </tr>
+                        <tr id="device-40">
+                <td>36.</td>
+                <td>374357451136</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">GSJMM6nLUbpL8ARt</span></td>
+                <td>SIP</td>
+                <td>Краснова Марина</td>
+                <td>142</td>
+            </tr>
+                        <tr id="device-41">
+                <td>37.</td>
+                <td>374357451137</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">h9MMGUJwk4ShKUAc</span></td>
+                <td>SIP</td>
+                <td>Кленова Светлана</td>
+                <td>137</td>
+            </tr>
+                        <tr id="device-42">
+                <td>38.</td>
+                <td>374357451138</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">ujs7dPBX66S5Yr9C</span></td>
+                <td>SIP</td>
+                <td>Тишкина Татьяна</td>
+                <td>138</td>
+            </tr>
+                        <tr id="device-43">
+                <td>39.</td>
+                <td>374357451139</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">rNAKvjXGsx42LEd8</span></td>
+                <td>SIP</td>
+                <td>Максимова Светлана</td>
+                <td>139</td>
+            </tr>
+                        <tr id="device-44">
+                <td>40.</td>
+                <td>3743457451143</td>
+                <td><span style="font-family: &#39;Courier New&#39;, monospace;">8HUQFc3NJTevVWLG</span></td>
+                <td>SIP</td>
+                <td>Армаганова Любовь</td>
+                <td>143</td>
+            </tr>
+                    </tbody>
+</table>
